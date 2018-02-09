@@ -1,7 +1,7 @@
 {
   "name": "Wonder-Quotes",
-  "description": "A Vue.js Udemy's Course by Maximilian Schwarzmüller",
-  "author": "rioookta@gmail.com",
+  "description": "My Vue.js Online Course Projects",
+  "author": "Rio Oktafianto (rioookta@gmail.com)",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
